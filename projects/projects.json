@@ -3580,6 +3580,21 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "TVChartZ.tk",
+      "thumb": "tvchartz/thumb.png",
+      "desc": "TVChartZ helps keeing track of current progress while watching multiple TV Shows.",
+      "url": "http://tvchartz.tk/",
+      "submitter": "Krzysiek Augustyn",
+      "submissionDate": "2014-09-16",
+      "tags": [
+        "TV Series",
+        "Rankings",
+        "Tracking",
+        "Free",
+        "Bootstrap"
+      ]
     }
 
   ]
